@@ -1,0 +1,8 @@
+
+{
+	"name": "com.daancode.zenject",
+	"displayName": "Zenject",
+	"version": "9.3.1",
+	"description": "Dependency injection framework for unity. Forked from https://github.com/Mathijs-Bakker/Extenject.",
+	"dependencies": {}
+}
